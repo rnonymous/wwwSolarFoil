@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is the source for the GitHub Pages website of [SolarFoil](https://rnonymous.github.io/wwwSolarFoil/)
 
 You can use the [editor on GitHub](https://github.com/rnonymous/wwwSolarFoil/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
